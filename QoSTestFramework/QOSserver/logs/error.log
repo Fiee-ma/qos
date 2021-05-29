@@ -1,0 +1,1281 @@
+::1 - - [13/May/2021:09:35:58 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:29 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:40 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:41 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:41 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:41 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:41 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:41 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:44 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:48 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:49 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:49 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:49 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:57 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:36:59 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:45:48 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:45:53 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:45:53 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:45:59 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:46:18 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:46:18 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:46:19 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:46:22 +0000] "POST /jitter HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:03 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:05 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:28 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:30 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:32 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:33 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:35 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:37 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:38 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:38 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:39 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:39 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:49:40 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [13/May/2021:09:53:49 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [13/May/2021:09:53:51 +0000] "POST /vmaf HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: python /home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/vmaf_calculate.py
+Traceback (most recent call last):
+  File "/home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/vmaf_calculate.py", line 21, in <module>
+    cmd_out = sp.check_output([cmd, fmt, width, height, ref1, ref2, out])
+  File "/usr/lib/python3.6/subprocess.py", line 356, in check_output
+    **kwargs).stdout
+  File "/usr/lib/python3.6/subprocess.py", line 423, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/python3.6/subprocess.py", line 729, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1364, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: './vmaf/run_vmaf': './vmaf/run_vmaf'
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [13/May/2021:09:53:53 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: python /home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/NR_calculate.py
+Traceback (most recent call last):
+  File "/home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/NR_calculate.py", line 19, in <module>
+    _ = subprocess.call([cmd, yuv, width, height])
+  File "/usr/lib/python3.6/subprocess.py", line 287, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 729, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1364, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: './mitsu/mitsuLinuxMultithread': './mitsu/mitsuLinuxMultithread'
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [13/May/2021:09:53:54 +0000] "POST /freezeRatio HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: python /home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/freeze_ratio.py -m 0 -h 768 -l 320 -f 0.330000 -e 1 /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/output/cut.mp4
+  File "/home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/freeze_ratio.py", line 93
+    print str(_freeze_length)
+            ^
+SyntaxError: invalid syntax
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [13/May/2021:12:33:33 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [13/May/2021:12:35:46 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [13/May/2021:12:45:51 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [13/May/2021:12:50:26 +0000] "POST /bitrate HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/bitrate /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localBitrate.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [13/May/2021:12:51:52 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [13/May/2021:12:52:08 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [13/May/2021:12:52:53 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [13/May/2021:12:53:12 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [13/May/2021:12:53:35 +0000] "POST /bitrate HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/bitrate /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localBitrate.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:01:37:57 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [14/May/2021:03:13:08 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_send rec.yuv 1280x720-framerate30-vp8-bitrate2000k_decode.yuv 1280 720 send.yuv
+Killed
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:13:42 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_send rec.yuv 1280x720-framerate30-vp8-bitrate2000k_decode.yuv 1280 720 send.yuv
+Killed
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:29:06 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+Segmentation fault (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:30:35 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+Segmentation fault (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:48:05 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+Segmentation fault (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:03:55:07 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:55:14 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:03:57:09 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+Segmentation fault (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:57:30 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:57:37 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:03:57:38 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:03:57:38 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:04:06:29 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:04:06:33 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:04:06:41 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:04:06:42 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:04:06:45 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:04:06:45 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:04:06:49 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:04:06:49 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:05:58:14 +0000] "POST /vmaf HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: python /home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/vmaf_calculate.py
+Traceback (most recent call last):
+  File "/home/jack-ma/QoSTestFramework/QOSserver/../analysis/python/vmaf_calculate.py", line 21, in <module>
+    cmd_out = sp.check_output([cmd, fmt, width, height, ref1, ref2, out])
+  File "/usr/lib/python3.6/subprocess.py", line 356, in check_output
+    **kwargs).stdout
+  File "/usr/lib/python3.6/subprocess.py", line 423, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/python3.6/subprocess.py", line 729, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1364, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: './vmaf/run_vmaf': './vmaf/run_vmaf'
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:05:59:23 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:06:01:19 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:06:01:21 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:06:01:23 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:06:01:24 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:06:01:24 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:06:01:24 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [14/May/2021:06:01:32 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:06:01:52 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+Segmentation fault (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:06:23:53 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [14/May/2021:06:24:32 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [15/May/2021:01:40:21 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [15/May/2021:01:43:23 +0000] "GET //js/statAll.js HTTP/1.1" 404 153 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [15/May/2021:02:16:03 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+Segmentation fault (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:12:32 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+-
+::1 - - [15/May/2021:07:38:23 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:38:25 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:38:27 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:40:08 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:40:10 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:45:57 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:48:28 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [15/May/2021:07:49:20 +0000] "POST /quality HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/gen_rec /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localARGB.txt rec.yuv 1280 720
+Segmentation fault (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:50:53 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:50:55 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:52:11 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:52:14 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [15/May/2021:07:52:16 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [15/May/2021:07:52:48 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:52:57 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:07:52:59 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [15/May/2021:07:53:10 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:08:02:08 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:08:02:20 +0000] "POST /bitrate HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [15/May/2021:08:02:23 +0000] "POST /bitrate HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [15/May/2021:08:02:29 +0000] "POST /bitrate HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [15/May/2021:08:03:35 +0000] "POST /bitrate HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [15/May/2021:08:04:12 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [15/May/2021:08:04:14 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [15/May/2021:08:04:57 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [17/May/2021:02:24:12 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:02:24:12 +0000] "POST /startTest HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:02:13 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:02:18 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:02:20 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:02:22 +0000] "POST /jitter HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:02:49 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:02:52 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:03:40 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:03:42 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:03:43 +0000] "POST /latency HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:03:45 +0000] "POST /jitter HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:03:47 +0000] "POST /latency HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:03:49 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:05:30 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:05:32 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:05:34 +0000] "POST /latency HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:05:35 +0000] "POST /jitter HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:05:37 +0000] "POST /jitter HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:05:39 +0000] "POST /freezeRatio HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:11:50 +0000] "POST /bitrate HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:12:16 +0000] "POST /fps HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:12:21 +0000] "POST /latency HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [17/May/2021:09:19:41 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [17/May/2021:09:19:43 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [17/May/2021:09:20:27 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:09:20:30 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:09:20:54 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [17/May/2021:09:23:03 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:09:25:00 +0000] "POST /fps HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/fps /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localFps.txt
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:09:47:41 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:09:47:45 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:09:47:51 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:09:48:05 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:11:32:26 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [17/May/2021:11:32:41 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [18/May/2021:03:58:11 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [27/May/2021:06:14:15 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [27/May/2021:06:17:51 +0000] "POST /vmaf HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: python /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/python/vmaf_calculate.py
+Traceback (most recent call last):
+  File "/home/jack-ma/vmaf/python/vmaf/script/run_vmaf.py", line 171, in <module>
+    ret = main()
+  File "/home/jack-ma/vmaf/python/vmaf/script/run_vmaf.py", line 131, in main
+    runner.run()
+  File "/home/jack-ma/vmaf/python/vmaf/core/executor.py", line 155, in run
+    self.results = list(map(self._run_on_asset, self.assets))
+  File "/home/jack-ma/vmaf/python/vmaf/core/quality_runner.py", line 463, in _run_on_asset
+    vmaf_fassembler.run()
+  File "/home/jack-ma/vmaf/python/vmaf/core/feature_assembler.py", line 87, in run
+    runner.run(parallelize=self.parallelize, processes=self.processes)
+  File "/home/jack-ma/vmaf/python/vmaf/core/executor.py", line 155, in run
+    self.results = list(map(self._run_on_asset, self.assets))
+  File "/home/jack-ma/vmaf/python/vmaf/core/executor.py", line 301, in _run_on_asset
+    self._assert_paths(asset)
+  File "/home/jack-ma/vmaf/python/vmaf/core/executor.py", line 271, in _assert_paths
+    "Reference path {} does not exist.".format(asset.ref_path)
+AssertionError: Reference path /home/jack-ma/webrtc_m76/src/culture_640x380_1M.yuv does not exist.
+Traceback (most recent call last):
+  File "/home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/python/vmaf_calculate.py", line 21, in <module>
+    cmd_out = sp.check_output([cmd, fmt, width, height, ref1, ref2, out])
+  File "/usr/lib/python2.7/subprocess.py", line 223, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+subprocess.CalledProcessError: Command '['/home/jack-ma/vmaf/python/vmaf/script/run_vmaf.py', 'yuv420p', '640', '380', '/home/jack-ma/webrtc_m76/src/culture_640x380_1M.yuv', '/home/jack-ma/webrtc_m76/src/LocalYUV.yuv', '--out-fmt.json']' returned non-zero exit status 1
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [27/May/2021:10:58:52 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [27/May/2021:10:58:59 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [28/May/2021:02:15:03 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [28/May/2021:02:15:29 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [28/May/2021:02:15:36 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [28/May/2021:09:17:38 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [28/May/2021:11:44:25 +0000] "POST /freezeRatio HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: python /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/python/freeze_ratio.py -m 0 -h 768 -l 320 -f 0.330000 -e 1 /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/output/cut.mp4
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [28/May/2021:12:00:49 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:00:51 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:00:54 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:03:53 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:04:43 +0000] "POST /vmaf HTTP/1.1" 403 9 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [28/May/2021:12:05:28 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:07:29 +0000] "POST /freezeRatio HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: python /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/python/freeze_ratio.py -m 0 -h 768 -l 320 -f 0.330000 -e 1 /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/output/cut.mp4
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+::1 - - [28/May/2021:12:09:25 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:09:39 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:26:53 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:28:39 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:12:30:02 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [28/May/2021:13:12:30 +0000] "POST /freezeRatio HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: python /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/python/freeze_ratio.py -m 0 -h 768 -l 320 -f 0.330000 -e 1 /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/output/cut.mp4
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [28/May/2021:13:16:17 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [29/May/2021:01:30:55 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+-
+::1 - - [29/May/2021:01:36:05 +0000] "POST /NR HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: stdout maxBuffer exceeded
+    at Socket.onChildStdout (child_process.js:328:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:246:13)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:607:20)
+::1 - - [29/May/2021:02:01:05 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
+::1 - - [29/May/2021:02:01:11 +0000] "POST /jitter HTTP/1.1" 500 21 "https://localhost:4004/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
+Error: Command failed: /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/native/FLR /home/jack-ma/webrtc_m76/src/vloud/qos_test/QoSTestFramework/QOSserver/../analysis/dataset/Data/localLatency.txt 600
+Floating point exception (core dumped)
+
+    at ChildProcess.exithandler (child_process.js:275:12)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:925:16)
+    at Socket.stream.socket.on (internal/child_process.js:346:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:567:12)
