@@ -1,0 +1,15 @@
+{
+    "video_file" : "vloud/qos_test/video_file/culture_640x380_1M.yuv",
+    "localTime_file" : "vloud/qos_test/QoSTestFramework/analysis/dataset/Data/localPublishTime.txt",
+    "localBitrate_file" : "vloud/qos_test/QoSTestFramework/analysis/dataset/Data/localBitrate.txt",
+    "fps_file" : "vloud/qos_test/QoSTestFramework/analysis/dataset/Data/localFps.txt",
+    "argb_file" : "vloud/qos_test/QoSTestFramework/analysis/dataset/Data/localARGB.txt",
+    "latency_file" : "vloud/qos_test/QoSTestFramework/analysis/dataset/Data/localLatency.txt",
+    "save_file" : "vloud/qos_test/QoSTestFramework/analysis/dataset/Data/LocalYUV.yuv",
+
+    "ip_address" : "123.57.209.116",
+    "port" : 18803,
+    "video_width": 640,
+    "video_height" : 380,
+    "frame" : 20
+}
