@@ -151,7 +151,8 @@ app.use(morgan(':errormsg', {
 
 const authPath = ['/jitter', '/latency', '/fps', '/bitrate', '/quality',
   '/vmaf', '/NR', '/freezeRatio', '/getResultFolder', '/getCompareResultFolder',
-  '/displayData', '/startTest', '/stopTest'
+  '/displayData', '/startTest', '/stopTest', 'audio_accelerate_rate', 'audio_delay_estimate_ms',
+  'audio_jitter_buffer_ms', 'audio_jitter_ms', 'audio_speech_expand_rate'
 ];
 app.use(authPath, function (req, res, next) {
   let authorization = req.headers.authorization
@@ -169,7 +170,7 @@ app.use(authPath, function (req, res, next) {
 app.post('/jitter', function (req, res) {
   let rTagFilename = dataDir + "localLatency.txt";
   let frameCount = conf.jitter.frameCount || "600";
-  exec(nativeDir + 'FLR ' + rTagFilename + ' ' + frameCount, function (err, data, stderr) {
+  exec(nativeDir + 'FLR ' + rTagFilename + ' ' + frameCount, {maxBuffer:102450*102450}, function (err, data, stderr) {
     if (err) {
       console.info('stderr:' + err.message);
       req.errormsg = err.stack
@@ -192,7 +193,8 @@ app.post('/jitter', function (req, res) {
 app.post('/latency', function (req, res) {
   let sTagFilename = dataDir + "localPublishTime.txt";
   let rTagFilename = dataDir + "localLatency.txt";
-  let frameCount = conf.latency.frameCount || "600";
+  console.info('dataDir=' + dataDir);
+  let frameCount = conf.latency.frameCount || "1111";
   exec(nativeDir + 'latency ' + sTagFilename + ' ' + rTagFilename + ' ' + frameCount, function (
     err, data, stderr) {
     if (err) {
@@ -229,6 +231,136 @@ app.post('/fps', function (req, res) {
     if (data.length > 1) {
       res.json({
         fps: data
+      });
+    } else {
+      console.log('fps file trans error');
+      res.json({
+        errmsg: 'fps file trans error'
+      });
+    }
+  });
+});
+
+app.post('/audio_accelerate_rate', function (req, res) {
+  let fpsFilename = dataDir + "AudioRcvData/accelerate_Rat.txt";
+  console.log(fpsFilename);
+  console.log('in  audio_accelerate_rate post');
+  exec(nativeDir + 'fps ' + fpsFilename, function (err, data, stderr) {
+    if (err) {
+      console.info('stderr from fps:' + stderr);
+      req.errormsg = err.stack
+      console.info('the error stack is:' + req.errormsg);
+      res.status(500).send("Internal Server Error")
+      return
+    }
+    if (data.length > 1) {
+      console.info(data);
+      res.json({
+        audio_accelerate_rate: data
+      });
+    } else {
+      console.log('fps file trans error');
+      res.json({
+        errmsg: 'fps file trans error'
+      });
+    }
+  });
+});
+
+app.post('/audio_delay_estimate_ms', function (req, res) {
+  let fpsFilename = dataDir + "AudioRcvData/delay_Estimate_Ms.txt";
+  console.log(fpsFilename);
+  console.log('in  audio_accelerate_rate post');
+  exec(nativeDir + 'fps ' + fpsFilename, function (err, data, stderr) {
+    if (err) {
+      console.info('stderr from fps:' + stderr);
+      req.errormsg = err.stack
+      console.info('the error stack is:' + req.errormsg);
+      res.status(500).send("Internal Server Error")
+      return
+    }
+    if (data.length > 1) {
+      console.info(data);
+      res.json({
+        audio_delay_estimate_ms: data
+      });
+    } else {
+      console.log('fps file trans error');
+      res.json({
+        errmsg: 'fps file trans error'
+      });
+    }
+  });
+});
+
+app.post('/audio_jitter_ms', function (req, res) {
+  let fpsFilename = dataDir + "AudioRcvData/jitter_Ms.txt";
+  console.log(fpsFilename);
+  console.log('in  audio_accelerate_rate post');
+  exec(nativeDir + 'fps ' + fpsFilename, function (err, data, stderr) {
+    if (err) {
+      console.info('stderr from fps:' + stderr);
+      req.errormsg = err.stack
+      console.info('the error stack is:' + req.errormsg);
+      res.status(500).send("Internal Server Error")
+      return
+    }
+    if (data.length > 1) {
+      console.info(data);
+      res.json({
+        audio_jitter_ms: data
+      });
+    } else {
+      console.log('fps file trans error');
+      res.json({
+        errmsg: 'fps file trans error'
+      });
+    }
+  });
+});
+
+app.post('/audio_jitter_buffer_ms', function (req, res) {
+  let fpsFilename = dataDir + "AudioRcvData/jitter_Buffer_Ms.txt";
+  console.log(fpsFilename);
+  console.log('in  audio_accelerate_rate post');
+  exec(nativeDir + 'fps ' + fpsFilename, function (err, data, stderr) {
+    if (err) {
+      console.info('stderr from fps:' + stderr);
+      req.errormsg = err.stack
+      console.info('the error stack is:' + req.errormsg);
+      res.status(500).send("Internal Server Error")
+      return
+    }
+    if (data.length > 1) {
+      console.info(data);
+      res.json({
+        audio_jitter_buffer_ms: data
+      });
+    } else {
+      console.log('fps file trans error');
+      res.json({
+        errmsg: 'fps file trans error'
+      });
+    }
+  });
+});
+
+app.post('/audio_speech_expand_rate', function (req, res) {
+  let fpsFilename = dataDir + "AudioRcvData/speech_Expand_Rat.txt";
+  console.log(fpsFilename);
+  console.log('in  audio_accelerate_rate post');
+  exec(nativeDir + 'fps ' + fpsFilename, function (err, data, stderr) {
+    if (err) {
+      console.info('stderr from fps:' + stderr);
+      req.errormsg = err.stack
+      console.info('the error stack is:' + req.errormsg);
+      res.status(500).send("Internal Server Error")
+      return
+    }
+    if (data.length > 1) {
+      console.info(data);
+      res.json({
+        audio_speech_expand_rate: data
       });
     } else {
       console.log('fps file trans error');
@@ -356,8 +488,8 @@ app.post('/quality', function (req, res) {
 
 app.post('/vmaf', function (req, res) {
   process.env['PYTHONPATH'] = (process.env['PYTHONPATH'] || '');
-  exec('python ' + analysisDir + 'python/vmaf_calculate.py', {
-    env: process.env
+  exec('python2 ' + analysisDir + 'python/vmaf_calculate.py', {
+    env: process.env, maxBuffer:102453*102455
   }, function (err, data, stderr) {
     if (err) {
       console.info('stderr from vmaf:' + stderr);
@@ -372,8 +504,9 @@ app.post('/vmaf', function (req, res) {
 });
 
 app.post('/NR', function (req, res) {
-  exec('python ' + analysisDir + 'python/NR_calculate.py', function (err,
+  exec('python ' + analysisDir + 'python/NR_calculate.py', {maxBuffer:10245*10245}, function (err,
     data, stderr) {
+    console.info('analysisDir=' + analysisDir);
     if (err) {
       console.info('stderr from NR:' + stderr);
       req.errormsg = err.stack
@@ -501,7 +634,7 @@ app.post('/displayData', function (req, res) {
 
 app.post('/startTest', function (req, res) {
 //  exec('python ' + clientDir + 'scripts/runQosClient.py', function (err) {
-  exec(clientDir + '../../webrtc_m76/src/out/VloudLinux_Release/boliving_peerconnection_client', function (err) {
+  exec('/root/qos/boliving_peerconnection_client', function (err) {
     if (err) {
       console.info('stderr owt_conf_sample:' + err);
     }

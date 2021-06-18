@@ -142,6 +142,56 @@
         style="display: none;"></canvas>
     </div>
 
+    <div>
+      <button id="audio_accelerate_rate-btn"
+        onclick="getData('chartgoogAudioAccelerateRate', 'aarthreshold', 'audio_accelerate_rate', 'audio_accelerate_rate_avg')"
+        style="width: 250px;height: 50px;">Audio-Accelerate-Rate</button>
+      Threshold:<input type="text" id="aarthreshold" value="1200000000" autocomplete="off">
+      Average:<input type="text" id="audio_accelerate_rate_avg" value="0" readonly>
+      <canvas id="chartgoogAudioAccelerateRate" width="400" height="100"
+        style="display: none;"></canvas>
+    </div>
+
+    <div>
+      <button id="audio_delay_estimate_ms-btn"
+        onclick="getData('chartgoogAudioDelayEstimateMs', 'ademthreshold', 'audio_delay_estimate_ms', 'audio_delay_estimate_ms_avg')"
+        style="width: 250px;height: 50px;">Audio-Delay-Eestimate-Ms</button>
+      Threshold:<input type="text" id="ademthreshold" value="1000" autocomplete="off">
+      Average:<input type="text" id="audio_delay_estimate_ms_avg" value="0" readonly>
+      <canvas id="chartgoogAudioDelayEstimateMs" width="400" height="100"
+        style="display: none;"></canvas>
+    </div>
+
+    <div>
+      <button id="audio_jitter_ms-btn"
+        onclick="getData('chartgoogAudioJitterMs', 'ajbmthreshold', 'audio_jitter_ms', 'audio_jitter_ms_avg')"
+        style="width: 250px;height: 50px;">Audio-Jitter-Ms</button>
+      Threshold:<input type="text" id="ajbmthreshold" value="1000" autocomplete="off">
+      Average:<input type="text" id="audio_jitter_ms_avg" value="0" readonly>
+      <canvas id="chartgoogAudioJitterMs" width="400" height="100"
+        style="display: none;"></canvas>
+    </div>
+
+    <div>
+      <button id="audio_jitter_buffer_ms-btn"
+        onclick="getData('chartgoogAudioJitterBufferMs', 'ajbmthreshold', 'audio_jitter_buffer_ms', 'audio_jitter_buffer_ms_avg')"
+        style="width: 250px;height: 50px;">Audio-Jitter-Buffer-Ms</button>
+      Threshold:<input type="text" id="ajbmthreshold" value="1000" autocomplete="off">
+      Average:<input type="text" id="audio_jitter_buffer_ms_avg" value="0" readonly>
+      <canvas id="chartgoogAudioJitterBufferMs" width="400" height="100"
+        style="display: none;"></canvas>
+    </div>
+
+    <div>
+      <button id="audio_speech_expand_rate-btn"
+        onclick="getData('chartgoogAudioSpeechExpandRate', 'aserthreshold', 'audio_speech_expand_rate', 'audio_speech_expand_rate_avg')"
+        style="width: 250px;height: 50px;">Audio-Speech-Expand-Rate</button>
+      Threshold:<input type="text" id="aserthreshold" value="1200000000" autocomplete="off">
+      Average:<input type="text" id="audio_speech_expand_rate_avg" value="0" readonly>
+      <canvas id="chartgoogAudioSpeechExpandRate" width="400" height="100"
+        style="display: none;"></canvas>
+    </div>
+
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js"></script>
     <script type="text/javascript" src="js/stat.js"> </script>

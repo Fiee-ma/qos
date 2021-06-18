@@ -26,7 +26,7 @@ function startVideoQualityMeasureTesting() {
     type: 'post',
     cache: false,
     async: true,
-    timeout: 400000,
+    timeout: 40000000000000,
   });
 }
 
@@ -40,7 +40,7 @@ function stopVideoQualityMeasureTesting() {
     type: 'post',
     cache: false,
     async: true,
-    timeout: 400000,
+    timeout: 4000000000000,
   });
 }
 
@@ -50,7 +50,7 @@ function getResultFolder() {
   for (let i = 0; i < size; i++) {
     resultfolder.remove(0)
   }
-  doPost('/getResultFolder', undefined, getHeader(), 800000)
+  doPost('/getResultFolder', undefined, getHeader(), 80000000)
     .then(function(data) {
       let folders = data.folder.split("\n")
       for (var i = 0; i < folders.length; i++) {
@@ -89,7 +89,7 @@ function getQuality(thresholdId) {
     doPost('/displayData', {
       "folder": strfolder,
       "file": "quality.txt"
-    }, getHeader(), 800000)
+    }, getHeader(), 800000000000000)
       .then(function(data) {
         $("#quality-btn").removeAttr('disabled');
         $("#vmaf-btn").removeAttr('disabled');
@@ -113,7 +113,7 @@ function getQuality(thresholdId) {
         alert(error);
       })
   } else {
-    doPost('/quality', undefined, getHeader(), 800000)
+    doPost('/quality', undefined, getHeader(), 8000000000000000)
       .then(function(data) {
         $("#quality-btn").removeAttr('disabled');
         $("#vmaf-btn").removeAttr('disabled');
@@ -212,6 +212,26 @@ function getData(canvasId, thresholdId, chartName, avgId = undefined) {
     fileName = 'freeze_ratio.txt';
     chartTitle = 'Freeze Ratio Chart';
     url = '/freezeRatio'
+  } else if (chartName === 'audio_accelerate_rate') {
+    fileName = 'audio_accelerate_rate.txt';
+    chartTitle = 'Audio Accelerate Rate Chart';
+    url = '/audio_accelerate_rate'
+  } else if (chartName === 'audio_delay_estimate_ms') {
+    fileName = 'delay_Estimate_Ms.txt';
+    chartTitle = 'Audio Delay Estimate Ms Chart';
+    url = '/audio_delay_estimate_ms'
+  } else if (chartName === 'audio_jitter_buffer_ms') {
+    fileName = 'jitter_Buffer_Ms.txt';
+    chartTitle = 'Audio Jitter Buffer Ms Chart';
+    url = '/audio_jitter_buffer_ms'
+  } else if (chartName === 'audio_jitter_ms') {
+    fileName = 'jitter_Ms.txt';
+    chartTitle = 'Audio Jitter Ms Chart';
+    url = '/audio_jitter_ms'
+  } else if (chartName === 'audio_speech_expand_rate') {
+    fileName = 'speech_Expand_Rat.txt';
+    chartTitle = 'Audio Jitter Ms Chart';
+    url = '/audio_speech_expand_rate'
   }
   if (selectfolder) {
     let strfolder = resultfolder.options[resultfolder.selectedIndex].text;
@@ -241,6 +261,16 @@ function getData(canvasId, thresholdId, chartName, avgId = undefined) {
           dataList = data.vmaf.split("\n")
         } else if (chartName === 'freezeRatio') {
           dataList = data.freeze.split("\n")
+        } else if(chartName === 'audio_accelerate_rate') {
+          dataList = data.audio_accelerate_rate.split("\n");
+        } else if(chartName === 'audio_delay_estimate_ms') {
+          dataList = data.audio_delay_estimate_ms.split("\n");
+        } else if(chartName === 'audio_jitter_buffer_ms') {
+          dataList = data.audio_jitter_buffer_ms.split("\n");
+        } else if(chartName === 'audio_jitter_ms') {
+          dataList = data.audio_jitter_ms.split("\n");
+        } else if(chartName === 'audio_speech_expand_rate') {
+          dataList = data.audio_speech_expand_rate.split("\n");
         }
         setData(chartName, canvasId, chartTitle, chartData, dataList, fCount,
           threshold, avgId);
